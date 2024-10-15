@@ -21,7 +21,7 @@ The following models have been tested and compared:
     5.- Support Vector Machines (SVM).
     6.- K-Nearest Neighbors (KNN).
 
-Resultando el mejor modelo SVM
+Better accuracy results: Support Vector Machines (SVM).
 Performance-optimised SVM model:
     Accuracy: 90%
     Precision: 0.8511
